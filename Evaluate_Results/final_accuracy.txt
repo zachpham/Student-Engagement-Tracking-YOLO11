@@ -1,0 +1,2 @@
+Mô hình sử dụng: runs\classify\runs\Student_Engagement_Project\weights\best.pt
+Độ chính xác chung cuộc (Top-1 Accuracy): 99.07%
